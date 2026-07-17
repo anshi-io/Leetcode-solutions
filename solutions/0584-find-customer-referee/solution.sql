@@ -1,4 +1,7 @@
-SELECT name
-FROM Customer
-WHERE referee_id != 2
-OR referee_id IS NULL;
+# Write your MySQL query statement below
+select c1.name 
+from customer c1
+join customer c2
+on c1.id=c2.id
+where  c1.referee_id != 2
+or c1.referee_id is null
