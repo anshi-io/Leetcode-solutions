@@ -1,2 +1,2 @@
 # Leetcode-solutions
-Systematic solutions to LeetCode problems across DSA, SQL, and programming fundamentals.this is a practice sheet
+Systematic solutions to LeetCode problems across DSA, SQL, and programming fundamentals.
